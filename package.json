@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "Example vue.js 3 tooltip plugin",
   "keywords": ["vue plugin", "vue tooltips", "vue 3 tooltips"],
-  "homepage": "",
+  "homepage": "https://github.com/CodingRuo/VueSchoolPluginClass",
+  "bugs": {
+    "url": "https://github.com/CodingRuo/VueSchoolPluginClass/issues"
+  },
+  "license": "MIT",
   "type": "module",
   "files": [
     "dist"
